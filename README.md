@@ -4,7 +4,8 @@
 ## Summary-level data from meta-analysis
 
 (1) qtigc_meta.18Jan2012.all.txt.gz   
-This file is downloadable via Zenodo: https://doi.org/10.5281/zenodo.1414598 which includes a description of the file. The order that the cohorts appear in the 'DIRECTIONS' column of this file is included in the meta_qtigc.rev.17Jan2012.params file.
+This file is downloadable via Zenodo: https://doi.org/10.5281/zenodo.1414598 which includes a description of the file.
+- The order that the cohorts appear in the 'DIRECTIONS' column of this file is included in the meta_qtigc.rev.17Jan2012.params file.
 
 ## Data for running meta-analysis
 
