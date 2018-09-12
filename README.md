@@ -1,6 +1,9 @@
 # QTIGCmeta
 ### Data and code relevant to the QT-IGC meta-analysis of QT interval
 
+Link to original (closed-access) manuscript: https://www.nature.com/articles/ng.3014    
+Link to open-access version of the manuscript: https://paperpile.com/shared/JEVaXW
+
 ## Summary-level data from meta-analysis
 
 (1) qtigc_meta.18Jan2012.all.txt.gz   
